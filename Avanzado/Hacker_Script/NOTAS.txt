@@ -1,9 +1,0 @@
-Una vez scrito el script que se quiere transformar en ejecutable, 
-tenemos que crear el archivo setup.py, luego en una terminal debemos ejecutar
-python setup.py py2exe
-Tenemos que tener en cuenta que debemos tener el py2exe instalado de ante mano
-Tras esto se nos generara el exe en alguna de las carpetas cercanas, solo tenemos que
-copiar este y los otros archivos de esta carpeta a la que vayamos a enviar 
-
-
-INSTALAR EL PY2EXE
